@@ -1,0 +1,3 @@
+android copyright © apache libary
+
+folders added in res
