@@ -1,0 +1,3 @@
+android copyright 2018 © apache libary
+
+the icons added folder named res
