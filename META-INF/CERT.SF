@@ -1,0 +1,397 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: EWOXzSBkwTuvdyAzb4afZ0uJ2eM=
+
+Name: res/drawable-hdpi/ic_appwidget_music_play.png
+SHA1-Digest: 7CLAznqhvKzrcOH0gAD1J83eHuE=
+
+Name: res/drawable-hdpi/ic_tab_albums_unselected.png
+SHA1-Digest: GHx82b1kgnP03aTG0lI3TjVfQhM=
+
+Name: res/drawable-hdpi/buttonbar_inactive.9.png
+SHA1-Digest: pFLBNO3EYlEgtYEalgIaiNyQzEk=
+
+Name: res/drawable/btn_nowplaying_background_small.xml
+SHA1-Digest: dsdIAOcx08VaPpAw76v18wxoel0=
+
+Name: res/drawable-hdpi/btn_playback_ic_pause_small.png
+SHA1-Digest: 79JDQv92uOmI9VecIr1j5nv2khw=
+
+Name: res/layout/audio_player_common.xml
+SHA1-Digest: 44pZYNWU2i0P71+pcE3HTBEIYBw=
+
+Name: res/drawable-hdpi/pickerbox_selected.9.png
+SHA1-Digest: GWX5Hj23zC4aNZtpA7ssi9xixo8=
+
+Name: res/layout/track_list_item_common.xml
+SHA1-Digest: I4soZSPuwOrdO2eWEyOtvK1YvPc=
+
+Name: res/drawable-hdpi/buttonbar_active.9.png
+SHA1-Digest: SJbruFlMvE9bAiISQWQIOkLA52Y=
+
+Name: res/drawable-hdpi/ic_menu_clear_playlist.png
+SHA1-Digest: xCs9PSskcs2Qltt0O2CioUs2538=
+
+Name: res/layout/sd_error.xml
+SHA1-Digest: G6q2G5nN6Pi8wD4he2zHNrQCu7A=
+
+Name: res/drawable/buttonbarbackground.xml
+SHA1-Digest: 4UWQxZDYlO10t9vfz9TNXx8Chn4=
+
+Name: res/drawable-hdpi/indicator_ic_mp_playing_large.png
+SHA1-Digest: FVCOosFjKwLyvWCi2tbpBEu55cw=
+
+Name: res/drawable-hdpi/pickerbox_unselected.9.png
+SHA1-Digest: 4rfHmZwcGHpoyp+83xOcCsM4aN0=
+
+Name: res/layout/statusbar.xml
+SHA1-Digest: B3PZUS863Xr+PdT0jGOdshbLFgU=
+
+Name: res/drawable/progress_horizontal.xml
+SHA1-Digest: PE2Q5liLkSzMbN3p1cQwofxvTPY=
+
+Name: res/layout/buttonbar.xml
+SHA1-Digest: ax6zrJffHJafQhN9zBvbU9zzJAU=
+
+Name: res/layout/audio_player.xml
+SHA1-Digest: P8ICLo1w/Of6tZrDLD7t666J9JE=
+
+Name: res/drawable-hdpi/ic_mp_sd_card.png
+SHA1-Digest: 1G2QTGN2AFsg6EbOQbbklCAWRLQ=
+
+Name: res/drawable-hdpi/btn_playback_ic_play_small.png
+SHA1-Digest: S/dHqKdlqYewp+yWbvxGuL+ASmQ=
+
+Name: res/drawable/ic_tab_artists.xml
+SHA1-Digest: ZOZpOACVFL0LDUutKM0yLYdBIpc=
+
+Name: res/color/tab_indicator_text.xml
+SHA1-Digest: 4OTU3VKYLK/tKAe5K/vQ3oPCycc=
+
+Name: res/drawable-hdpi/ic_mp_playlist_list.png
+SHA1-Digest: Gob+wjQ3lGoLewJ2dYgOaRaVBvU=
+
+Name: res/drawable-hdpi/ic_slide_keyboard.png
+SHA1-Digest: 47qoeFYxQ3+Z23MlPr9y3XmKVq8=
+
+Name: res/drawable-hdpi/ic_tab_songs_unselected.png
+SHA1-Digest: Q/ns5Xs6ORROpZpO7BpWpTtIG1Q=
+
+Name: res/drawable-hdpi/ic_launcher_shortcut_music_playlist.png
+SHA1-Digest: 6BT/o3D6SwDM+sTnOMusC76tB64=
+
+Name: res/xml/appwidget_info.xml
+SHA1-Digest: k6acXnCntNRLpBTPTSZGpjTOY44=
+
+Name: res/layout/album_appwidget.xml
+SHA1-Digest: bBjXK4AMAsjEx01BUegMkhDtkT0=
+
+Name: res/drawable-hdpi/ic_tab_playback_unselected.png
+SHA1-Digest: CmDjLOOqOabJa6kp5YOxv48AVdI=
+
+Name: res/drawable-hdpi/ic_menu_music_library.png
+SHA1-Digest: 2leFP00a3vy20pcBHyIXl76bQec=
+
+Name: res/drawable-hdpi/now_playing_progress_handle_pressed.png
+SHA1-Digest: YZtfq83z7yC0BLIKajKsRSo/oI4=
+
+Name: res/drawable-hdpi/app_video.png
+SHA1-Digest: ho+G8ak4LrloMLZ4xLEpOz9VZ4Q=
+
+Name: res/drawable/seek_thumb.xml
+SHA1-Digest: TvoKZiDzrWUH5hyvG5PoxwyPMIw=
+
+Name: res/drawable-hdpi/appwidget_inner_press_r.9.png
+SHA1-Digest: xN+Yb54wbFsoCmoqjRgGS75X/dU=
+
+Name: resources.arsc
+SHA1-Digest: Zg9Cj9u4QfdtbULC/Lcu+mlDEc0=
+
+Name: res/layout-keysexposed/create_playlist.xml
+SHA1-Digest: rWiIb7x5azKUVW0hF8yOtDpI9Qc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5EXLpU16xeO0aQEkqzI/atqRaqY=
+
+Name: res/drawable-hdpi/ic_tab_playlists_unselected.png
+SHA1-Digest: EBB6heVW6COrxdNDVmrxRR3Q5ZQ=
+
+Name: res/drawable-hdpi/ic_menu_set_as_ringtone.png
+SHA1-Digest: g1Ce44Sxd83kOFdqPeFSSlf7Wqo=
+
+Name: res/drawable-hdpi/ic_mp_album_playback.png
+SHA1-Digest: Ax0VWc3Z1sYrxodJB1un24jBUzI=
+
+Name: res/drawable-hdpi/album_border_large.9.png
+SHA1-Digest: RfiH0FKb6RIO5pfuElvUhCzrs54=
+
+Name: res/drawable-hdpi/midi.png
+SHA1-Digest: I1FL+cLTJy3RE+NoKZsaefzmQIs=
+
+Name: res/layout-land/buttonbar.xml
+SHA1-Digest: YgbyGhpDTwixUv265Fd34IJyfCM=
+
+Name: res/layout/track_list_item_group.xml
+SHA1-Digest: VV2XCMG8jK0XKflbkFsxjHBPMo8=
+
+Name: res/layout/scanning_nosdcard.xml
+SHA1-Digest: Ep76OEAU2OYoiuuV5Pk93HNanek=
+
+Name: res/drawable-hdpi/ic_mp_shuffle_off_btn.png
+SHA1-Digest: xbdwn6ei6j98De+NfbgjLvkifwY=
+
+Name: res/drawable-hdpi/btn_playback_small_normal.png
+SHA1-Digest: Gf6hsRs4gzMTT6jugTT+dtqEWDc=
+
+Name: res/layout/track_list_item.xml
+SHA1-Digest: NtD4Bx4N/5LeSB3kJpYplfNKjLQ=
+
+Name: res/drawable-hdpi/appwidget_bg.9.png
+SHA1-Digest: R/RPLQu244kZU5nKkWH+OMaQTq8=
+
+Name: res/drawable/ic_tab_playlists.xml
+SHA1-Digest: z5tz3j79x8BfUdYwgAcYmF7f4AA=
+
+Name: res/drawable-hdpi/playlist_tile_normal.9.png
+SHA1-Digest: drnQZUo3itv+8MXwFTbP7PwC9Zw=
+
+Name: res/drawable-hdpi/ic_mp_artist_list.png
+SHA1-Digest: j4YV+OQJc4tIUGM43krxvja0g9g=
+
+Name: classes.dex
+SHA1-Digest: XrYtQ+AcaOLs8BJqyOA525k5lyw=
+
+Name: res/layout/nowplaying.xml
+SHA1-Digest: Tx+VMZk3pTEs1dc+YSMvAL1Wp2Q=
+
+Name: res/drawable-hdpi/ic_menu_shuffle.png
+SHA1-Digest: GdmKlqj4ReavcQDFiuz4rSREsS8=
+
+Name: res/drawable-hdpi/ic_mp_song_playback.png
+SHA1-Digest: ykijkxcc8PrUqCykrnuaU14kyh4=
+
+Name: res/drawable-hdpi/btn_playback_small_pressed.png
+SHA1-Digest: 78dN+Kgv3VF2N65Pt9rKSTmVdZM=
+
+Name: res/drawable-hdpi/panel_now_playing_progress_bg.9.png
+SHA1-Digest: 4CGbtgR3QeoXWvAhBuHONXAGh5g=
+
+Name: res/drawable-hdpi/now_playing_progress_handle_normal.png
+SHA1-Digest: jutBYer7k0EMy80fOtmYIo+mpyU=
+
+Name: res/drawable-hdpi/ic_appwidget_music_pause.png
+SHA1-Digest: 1b+nJJDAi9Vye9W0lHU/M0W6E6M=
+
+Name: res/layout/scanning.xml
+SHA1-Digest: EAuShW/Hjm0JO4UF36BsRU2fQS8=
+
+Name: res/drawable-hdpi/buttonbar_pressed.9.png
+SHA1-Digest: C6VmfzwlSGGwOrysD743iHLUadI=
+
+Name: res/drawable-hdpi/ic_tab_playlists_selected.png
+SHA1-Digest: G2tp6ua1tmVtF1aYa6qQYLnRE2o=
+
+Name: res/layout/edit_track_list_item.xml
+SHA1-Digest: irkBH/ctyMw8RYhPwN/mjHuaHfg=
+
+Name: res/layout/query_activity.xml
+SHA1-Digest: wbk3sx4ly16CRDqVN5RSNQW52WE=
+
+Name: res/drawable-hdpi/music_bottom_playback_bg.9.png
+SHA1-Digest: dSr+7r7DR4ZNXKb/0tGBnq2M4ek=
+
+Name: res/drawable-hdpi/ic_mp_repeat_once_btn.png
+SHA1-Digest: +MVQ4MqKOkxte0CLHCuWURcDJig=
+
+Name: res/drawable-hdpi/ic_search_category_music_song.png
+SHA1-Digest: tNkG71SzE5Vf2W4d8m+5OFyaWXQ=
+
+Name: res/drawable-hdpi/playlist_tile_pressed.9.png
+SHA1-Digest: ZEOYb66P5a1uKppOsz3bP6jRRZc=
+
+Name: res/layout-port-finger-854x480/audio_player.xml
+SHA1-Digest: xFmtjgGiS9ywnBWx3P4392B8u+E=
+
+Name: res/drawable-hdpi/ic_menu_eq.png
+SHA1-Digest: GhVvU2oNPC0gXTyW7ByKdRYxfus=
+
+Name: res/drawable-hdpi/movie.png
+SHA1-Digest: yED+/FpqbXG0ju5+91NeDZbw0Kc=
+
+Name: res/drawable-hdpi/playlist_tile_selected.9.png
+SHA1-Digest: ouWcIZelI3MGa2yUBWbCykHaFQs=
+
+Name: res/layout/music_picker.xml
+SHA1-Digest: ZwcSpiBNvLjNXVZKJwQlaKtBzOc=
+
+Name: res/drawable-hdpi/indicator_ic_mp_playing_list.png
+SHA1-Digest: PZLTGhrEbfZqBJvG/alDzTR17gQ=
+
+Name: res/drawable-hdpi/ic_menu_party_shuffle.png
+SHA1-Digest: rvGf14/OUe/O/T789tamNnbJ2B4=
+
+Name: res/layout-land/media_picker_activity.xml
+SHA1-Digest: iscQuW1LMUiRIx3CGqQja1eZ++8=
+
+Name: res/drawable-hdpi/ic_mp_song_list.png
+SHA1-Digest: XQ2T6C0mV028IaEklFyVlJ1uRbY=
+
+Name: res/drawable-hdpi/ic_mp_playlist_recently_added_list.png
+SHA1-Digest: TiCnLQjGx0zA3AwVsVaeRY2SzRs=
+
+Name: res/drawable-hdpi/albumart_mp_unknown_list.png
+SHA1-Digest: i3edOXGko1wHl6TmmtVpzr3FhYg=
+
+Name: res/drawable-hdpi/ic_tab_playback_selected.png
+SHA1-Digest: +T1giAWAIIAc/tFF/fP8t1SaYlw=
+
+Name: res/drawable-hdpi/ic_tab_artists_selected.png
+SHA1-Digest: EVV0HW9Z11O/R48+8d36g0tYPmc=
+
+Name: res/drawable-hdpi/app_music.png
+SHA1-Digest: p5JPnLbPDADN1tdd+hbY5+jQHrs=
+
+Name: res/drawable/list_selector_background_transition.xml
+SHA1-Digest: SDM5039edLXhIzyXTYwvp4mg+S0=
+
+Name: res/drawable/appwidget_button_right.xml
+SHA1-Digest: I93tAQ3p9FO7n0Aneb1N5g4ZQoY=
+
+Name: res/drawable-hdpi/appwidget_inner_press_c.9.png
+SHA1-Digest: rNUuapBz4UuWHkzy/WKVyZBoYy0=
+
+Name: res/layout/confirm_delete.xml
+SHA1-Digest: jnRRtILE6FneBBOOA4ZGur8U6ck=
+
+Name: res/layout/audiopreview.xml
+SHA1-Digest: i+AGqbei4ycH1Vi+jImkdZHJ3kg=
+
+Name: res/drawable-hdpi/appwidget_divider.9.png
+SHA1-Digest: f9f+F6DBmP95NHHMmOghz78bXaY=
+
+Name: res/drawable-hdpi/appwidget_inner_focus_l.9.png
+SHA1-Digest: WKZVcGUQ6f2dejZ/tMB2IaIADXM=
+
+Name: res/drawable-hdpi/ic_tab_songs_selected.png
+SHA1-Digest: +HSjTW5IdHo1XGRZ/4miWYjtTY0=
+
+Name: res/xml/searchable.xml
+SHA1-Digest: N+R4dJnRakUlwa5ijoBqD6UdJhw=
+
+Name: res/drawable-hdpi/appwidget_inner_focus_c.9.png
+SHA1-Digest: HsZRI1unJiTaaa+SwyofIGGTiBU=
+
+Name: res/layout/weekpicker.xml
+SHA1-Digest: FwdnICroKXVueNd0sdyywyHeYoU=
+
+Name: res/drawable-hdpi/btn_playback_small_selected.png
+SHA1-Digest: NsnLIlXQOAr3z+JugOond4JcRVI=
+
+Name: res/drawable/playlist_tile.xml
+SHA1-Digest: v5mGvnhNnKn1p+B6n6OipmGfsMk=
+
+Name: res/drawable/list_selector_background.xml
+SHA1-Digest: T6KUOosjJlKML1nd+/rPFZEcVYE=
+
+Name: res/drawable/ic_tab_albums.xml
+SHA1-Digest: SptLe+BLneoyVZP+5FpfeluGbn0=
+
+Name: res/layout/media_picker_activity.xml
+SHA1-Digest: epQsHq8KbA9FY/JFIVxR3v3GQmA=
+
+Name: res/drawable-hdpi/buttonbar_focused.9.png
+SHA1-Digest: 67vzhU1CcDL8eScQ7eXawR6H66w=
+
+Name: res/drawable-hdpi/ic_menu_play_clip.png
+SHA1-Digest: JtKuqFKDAmZPHQRQgIi6ykBEcj8=
+
+Name: res/drawable-hdpi/playlist_tile_drag.9.png
+SHA1-Digest: n6UIWkN06VAbYKQfUGQZ15MMNhg=
+
+Name: res/layout/music_picker_item.xml
+SHA1-Digest: xwjLwWRwViiW/DoYFWUIGnSMnRE=
+
+Name: res/drawable/ic_tab_songs.xml
+SHA1-Digest: a1Ow6+b5H+QiIWjITlf2H6N4sB4=
+
+Name: res/drawable/appwidget_button_left.xml
+SHA1-Digest: 25S8mwDmYI5FJbP7gg17Tr6lp+M=
+
+Name: res/drawable/appwidget_button_center.xml
+SHA1-Digest: 3TdjdQWF+Ecx+2vD1ZxA3shKKdo=
+
+Name: res/drawable-hdpi/playlist_tile_longpress.9.png
+SHA1-Digest: KX18RhAjkSgEtfDy05IIqQYlu/Q=
+
+Name: res/drawable-hdpi/ic_mp_partyshuffle_on_btn.png
+SHA1-Digest: qSs8uu2rzl4OGY4uDkNLZryJMs4=
+
+Name: res/layout-keyshidden/create_playlist.xml
+SHA1-Digest: GDeR1DcQM7kqgLvBO0OY9dUZ5UU=
+
+Name: res/layout-land/audio_player.xml
+SHA1-Digest: 5E18nSXAb/nNHqytYR4wadH6zo0=
+
+Name: res/drawable-hdpi/appwidget_inner_press_l.9.png
+SHA1-Digest: uumOHAW5IEwaehUzA98LrPY9XIw=
+
+Name: res/drawable-hdpi/appwidget_inner_focus_r.9.png
+SHA1-Digest: rks41AKn0B7BRsKWEWoTsh5ybTs=
+
+Name: res/drawable-hdpi/ic_tab_albums_selected.png
+SHA1-Digest: /SMkiSbIpTBPWAFbfTFf1Hv7yWk=
+
+Name: res/drawable-hdpi/ic_mp_artist_playback.png
+SHA1-Digest: UfpwxPejLRvH6UB5lYE4m4DLcfg=
+
+Name: res/drawable-hdpi/now_playing_progress_handle_selected.png
+SHA1-Digest: KRQMI/T5dNqABV0uGk1JVbkX6/c=
+
+Name: res/drawable/ic_tab_playback.xml
+SHA1-Digest: rTe9DRVnctwk5Tzbkh70DPMLb3w=
+
+Name: res/drawable-land-hdpi/albumart_mp_unknown.png
+SHA1-Digest: bRZ+YxtUJD774sEEzw1WwZYzMk4=
+
+Name: res/drawable-hdpi/albumart_mp_unknown.png
+SHA1-Digest: L9iaCIoVfi3pFOf3YoCQr0JpE3g=
+
+Name: res/drawable-hdpi/ic_mp_shuffle_on_btn.png
+SHA1-Digest: DlkMEKr1Zi1nuB2sNhw1TOfNFa0=
+
+Name: res/drawable-hdpi/stat_notify_musicplayer.png
+SHA1-Digest: Doc83cbR4kWOw3XCxxa3urbE2K4=
+
+Name: res/drawable-hdpi/ic_menu_delete.png
+SHA1-Digest: +UMyEBPUTHd08gDXDyF9B3p8GXI=
+
+Name: res/drawable-hdpi/ic_mp_repeat_all_btn.png
+SHA1-Digest: yfLPo3J5b41Mi4q2qtfuCKBFUsw=
+
+Name: res/drawable-hdpi/ic_mp_repeat_off_btn.png
+SHA1-Digest: EX0BrIMZXBOFCXJzDaD//dJ8dmw=
+
+Name: res/drawable-hdpi/pickerbox_background.9.png
+SHA1-Digest: ZtOQgEI+gK8ae7B9Gn34Stq9dLw=
+
+Name: res/layout/media_picker_activity_expanding.xml
+SHA1-Digest: JEWY5WQ32iG+VwDnmoXgTWdYArg=
+
+Name: res/drawable-hdpi/ic_appwidget_music_next.png
+SHA1-Digest: yFybpAHetJe+NuAxmdBwbRs63Iw=
+
+Name: res/drawable-hdpi/ic_mp_current_playlist_btn.png
+SHA1-Digest: kugt6XmiluhkecI4E8I66R8ciwc=
+
+Name: res/layout-land/media_picker_activity_expanding.xml
+SHA1-Digest: ts8LLw72aR76bb1x1o8Ug8qt8V0=
+
+Name: res/layout/track_list_item_child.xml
+SHA1-Digest: fpxt7EnzaoEQAlr09lGdn/y+ZJM=
+
+Name: res/drawable-hdpi/ic_tab_artists_unselected.png
+SHA1-Digest: OvHvUh0noZWJdb00ytx6xRks+7Q=
+
+Name: res/drawable/list_selector.xml
+SHA1-Digest: Iw5KkBq1xW2tAHFVGHA5st2D2kA=
+
